@@ -7,7 +7,7 @@
 
 //Time Comp: O(n^2)
 
-package JavaPractice.Patterns;
+
 
 public class invertedHalfPyramid {
     public static void main(String[] args) {

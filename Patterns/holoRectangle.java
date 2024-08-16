@@ -8,7 +8,7 @@
 //Time Comp: O(nm)
 
 
-package JavaPractice.Patterns;
+
 
 public class holoRectangle {
     public static void main(String[] args) {

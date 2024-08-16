@@ -7,7 +7,7 @@
 
 //Time Comp: O(nm)
 
-package JavaPractice.Patterns;
+
 
 public class rectangular {
     public static void main(String args[]){
